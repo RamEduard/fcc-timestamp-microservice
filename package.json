@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-miniservice",
+  "version": "0.0.1",
+  "description": "Timestamp MiniService for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/timestamp-miniservice.git"
+  },
+  "keywords": [
+    "webservice",
+    "api"
+  ],
+  "author": "Ramón Serrano <ramon.calle.88@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "unix-time": "^1.0.1"
+  }
+}
