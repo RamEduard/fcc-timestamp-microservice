@@ -4,12 +4,11 @@
   "description": "Timestamp MiniService for FreeCodeCamp",
   "main": "server.js",
   "scripts": {
-    "test": "test.js",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/timestamp-miniservice.git"
+    "url": "https://github.com/fcc-timestamp-miniservice.git"
   },
   "keywords": [
     "webservice",
@@ -21,5 +20,9 @@
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
     "unix-time": "^1.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/RamEduard/fcc-timestamp-miniservice/issues"
+  },
+  "homepage": "https://github.com/RamEduard/fcc-timestamp-miniservice#readme"
 }
