@@ -4,7 +4,8 @@
   "description": "Timestamp MiniService for FreeCodeCamp",
   "main": "server.js",
   "scripts": {
-    "test": "test.js"
+    "test": "test.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
